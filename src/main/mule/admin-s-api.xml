@@ -17,6 +17,6 @@
         <apikit:router config-ref="admin-s-api-config" />
     </flow>
     <flow name="get:\admin-number:admin-s-api-config">
-		<flow-ref doc:name="Flow Reference" doc:id="8e3f9487-cf1c-4d53-8383-15a4fe73b849" name="admin-number-s-apiSub_Flow"/>
+		<flow-ref doc:name="admin-number-s-apiSub_Flow" doc:id="8e3f9487-cf1c-4d53-8383-15a4fe73b849" name="admin-number-s-apiSub_Flow"/>
     </flow>
 </mule>
