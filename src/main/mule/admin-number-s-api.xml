@@ -14,8 +14,7 @@ output application/json
 	"name":"venky",
 	"id":"12340",
 	"org":"epam",
-	"city":"hyd",
-	"api":"admin s api"
+	"city":"hyd"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
